@@ -1,0 +1,8 @@
+{
+  "name": "Remix Gatitoselite — Gatitos de Raza Premium",
+  "description": "Criadero familiar especializado en gatitos de raza en España: Maine Coon, Bengalí, Siberiano, Ragdoll, British Shorthair, Persa, Sphynx, Azul Ruso y Siamés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
